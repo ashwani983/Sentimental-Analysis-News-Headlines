@@ -1,7 +1,1 @@
-# Demo_sem1 v2.o
-
-## Introduction
-
-This is my third sem project
-
-> git commit
+#Sentimental Analysis of News Headlines 
